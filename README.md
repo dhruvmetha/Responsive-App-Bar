@@ -1,4 +1,4 @@
-A resposive AppBar from Material-UI React
+A resposive AppBar for Material-UI React
 
 <p>
 Code Snippet<br/>
